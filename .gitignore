@@ -1,2 +1,2 @@
 /bin/
-*.Token.txt
+src/*.Token.txt
