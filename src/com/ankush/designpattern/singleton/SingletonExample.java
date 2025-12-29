@@ -1,4 +1,4 @@
-package com.ankush.designpattern;
+package com.ankush.designpattern.singleton;
 
 public class SingletonExample {
 	
